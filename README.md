@@ -17,6 +17,7 @@ Mobile Application:
 
 Ionic
 Cordova
+Twilio
 MongoDB or Diskdb
 Express
 Morgan
@@ -28,9 +29,12 @@ Pebble:
 Cloud Pebble
 
 MVP Features:
-Ionic app – schedules SMS, will have view to save important numbers (Pharmacies & Doctor Appointments)
-Pebble app – time alert to kids to take meds/or get blood sugar
+Ionic app: schedules SMS, will have view to save important numbers (Pharmacies & Doctor Appointments)
+
+PebbleWatch app: time alert to kids to take meds/or get blood sugar
+
 Child View:
+
 Educational Game or Educational Materials –Crossword Game in Javascript
 Some Educational Information from: http://www.diabetesresearch.org/document.doc?id=274 displayed in a fun way.
 
