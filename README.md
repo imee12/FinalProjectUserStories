@@ -1,7 +1,8 @@
 MVP: Text messaging notification application that will send a text message to a parent or child to keep track of medication times, blood glucose checks, and doctor appointments.
 
 Requirements Documents:
-Web Application
+Web Application:
+
 Twilio
 Angular
 Firebase
@@ -11,7 +12,8 @@ Ngrok
 Body-parser
 Express
 
-Mobile Application
+Mobile Application:
+
 Ionic
 Cordova
 MongoDB or Diskdb
